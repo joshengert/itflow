@@ -28,7 +28,7 @@
                 <?php } else { ?>
 
                     <li class="nav-item">
-                        <a href="dashboard_financial.php" class="nav-link <?php if (basename($_SERVER["PHP_SELF"]) == "dashboard_financial.php") { echo "active"; } ?>">
+                        <a href="dashboard_technical.php" class="nav-link <?php if (basename($_SERVER["PHP_SELF"]) == "dashboard_technical.php") { echo "active"; } ?>">
                             <i class="nav-icon fas fa-tachometer-alt"></i>
                             <p>Dashboard</p>
                         </a>

@@ -10,7 +10,7 @@
       <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" data-accordion="false">
 
         <li class="nav-item mb-2">
-          <a href="dashboard_financial.php" class="nav-link">
+          <a href="dashboard_technical.php" class="nav-link">
             <i class="nav-icon fas fa-arrow-left"></i>
             <p class="h5">Back | <strong>Settings</strong></p>
           </a>
